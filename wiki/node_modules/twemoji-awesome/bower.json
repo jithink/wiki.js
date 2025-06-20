@@ -1,0 +1,30 @@
+{
+    "name": "twemoji-awesome",
+    "description": "Like Font Awesome, but for Twitter Emoji",
+    "main": "index.html",
+    "authors": [
+        "Angel Cruz <me@abr4xas.org>"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "emoji",
+        "twitter",
+        "font",
+        "awesome"
+    ],
+    "homepage": "https://github.com/abr4xas/twemoji-awesome",
+    "private": false,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests",
+        "css",
+        "js",
+        "demo.html",
+        "index.html",
+        "Gulpfile.js",
+        "package.json"
+    ]
+}
